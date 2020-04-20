@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using FrameworkBenchmark.NetCore22.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,11 +11,11 @@ namespace FrameworkBenchmark.NetCore22.Controllers
 	{
 		// GET api/fibonacci/5
 		[HttpGet("{index}")]
-		public ActionResult<int> Get(int index)
+		public async Task<ActionResult<int>> Get(int index)
 		{
 			try
 			{
-				return Helpers.Fibonacci.GetFibonacciNumberByIndex(index);
+				return await Helpers.Fibonacci.GetFibonacciNumberByIndexAsync(index);
 			}
 			catch (Exception ex)
 			{
@@ -25,13 +26,13 @@ namespace FrameworkBenchmark.NetCore22.Controllers
 
 		// POST api/fibonacci
 		[HttpPost]
-		public ActionResult<int> Post([FromBody] FibonacciRequestModel request)
+		public async Task<ActionResult<int>> Post([FromBody] FibonacciRequestModel request)
 		{
 			if (request != null)
 			{
 				try
 				{
-					return Helpers.Fibonacci.GetFibonacciNumberByIndex(request.Index);
+					return await Helpers.Fibonacci.GetFibonacciNumberByIndexAsync(request.Index);
 				}
 				catch (Exception ex)
 				{

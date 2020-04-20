@@ -1,4 +1,5 @@
 using System;
+using System.Threading.Tasks;
 
 namespace FrameworkBenchmark.NetCore22.Helpers
 {
@@ -24,6 +25,11 @@ namespace FrameworkBenchmark.NetCore22.Helpers
 				fibonaccies[i] = fibonaccies[i - 2] + fibonaccies[i - 1];
 			
 			return fibonaccies[index]; 
+		}
+
+		public static async Task<int> GetFibonacciNumberByIndexAsync(int index)
+		{
+			return await Task.Run(() => GetFibonacciNumberByIndex(index));
 		}
 	}
 }
