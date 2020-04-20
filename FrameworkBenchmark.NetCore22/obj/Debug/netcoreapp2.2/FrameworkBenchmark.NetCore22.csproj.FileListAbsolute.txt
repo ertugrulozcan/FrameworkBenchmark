@@ -1,0 +1,14 @@
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/bin/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.deps.json
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/bin/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.runtimeconfig.json
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/bin/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.runtimeconfig.dev.json
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/bin/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.dll
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/bin/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.pdb
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.csprojAssemblyReference.cache
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.RazorAssemblyInfo.cache
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.RazorAssemblyInfo.cs
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.AssemblyInfoInputs.cache
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.AssemblyInfo.cs
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.RazorTargetAssemblyInfo.cache
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.dll
+/Users/admin/Projects/FrameworkBenchmark/FrameworkBenchmark.NetCore22/obj/Debug/netcoreapp2.2/FrameworkBenchmark.NetCore22.pdb
